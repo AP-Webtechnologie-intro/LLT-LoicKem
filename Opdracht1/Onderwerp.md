@@ -124,8 +124,10 @@ Gebruik Razz Berries of andere items:
 
 Gebruik items zoals Razz Berries om wilde Pokémon te kalmeren en hun vangkans te verhogen.
 
--- 7. een pagina waar je kan zien wat voor soort pokeballen er bestaan en war ze doen
-title: [Pokeballs]
+---
+
+7.  een pagina waar je kan zien wat voor soort pokeballen er bestaan en war ze doen
+    title: [Pokeballs]
 
 tekst:
 hieronder kan je een lijst vinden van alle pokéballs
@@ -159,7 +161,7 @@ Beast Ball: Gebruikt in Pokémon Sun en Moon om Ultra Beasts te vangen.
 Sport Ball: Gebruikt in de Bug-Catching Contest in Johto-regio.
 Park Ball: Gebruikt in de Pal Park in de Sinnoh-regio.
 
---
+---
 
 8. Wat mag je met pokemons doen en wat is verboden
 
