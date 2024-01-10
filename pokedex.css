@@ -39,6 +39,7 @@ main {
 }
 
 #pokemon-details {
+  margin: 20px;
   padding: 20px;
   min-height: 600px;
   background-color: #fff;
