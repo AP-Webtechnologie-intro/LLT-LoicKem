@@ -1,0 +1,75 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("grassland.png");
+  background-color: #b5b8b6;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 1.5em;
+  flex-wrap: wrap;
+}
+
+nav a {
+  display: block;
+  padding: 10px;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 2em;
+}
+
+nav a:hover {
+  background-color: #ccc;
+}
+
+main {
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px 0;
+}
+p {
+  margin-bottom: 10px;
+  color: #000;
+}
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td {
+  text-align: center;
+  border: 1px solid #f1f1f1;
+  background-color: rgba(200, 200, 200, 0.5);
+  padding: 5px;
+}
